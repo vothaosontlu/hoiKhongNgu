@@ -1,0 +1,43 @@
+
+{
+  "project_info": {
+    "project_number": "353403204844",
+    "firebase_url": "https://hoi-xoay-dap-xoay-xoay-xoay.firebaseio.com",
+    "project_id": "hoi-xoay-dap-xoay-xoay-xoay",
+    "storage_bucket": "hoi-xoay-dap-xoay-xoay-xoay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353403204844:android:193f626a1f4be461",
+        "android_client_info": {
+          "package_name": "com.betaquestionapp.hoixoaydapxoay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353403204844-77d0sodldpgu6hd6tr311pl7td1svaph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnV2wE-UDxB5WKseucRtRVzD9kgMCTNJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

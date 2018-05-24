@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuManHinhChinh"
+        android:title="Màn Hình Chính" />
+
+    <item
+        android:orderInCategory="3"
+        android:title="Gói câu hỏi khác">
+        <menu>
+            <item android:title="Mặc Định"
+                android:id="@+id/selectMacDinh"/>
+            <item android:title="Toán Học"
+                android:id="@+id/selectToanHoc"/>
+            <item android:title="Tình Yêu"
+                android:id="@+id/selectTinhYeu"/>
+
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/menuRateUs"
+        android:title="Dánh giá ứng dụng" />
+
+
+</menu>

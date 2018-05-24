@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hỏi không ngu</string>
+    <string name="button_choi">Nhiều Chủ Đề</string>
+    <string name="text_appname">Hỏi Không Ngu</string>
+    <string name="button_tieptuc">Tiếp Tục</string>
+    <string name="button_danhgia">Đánh Giá Ứng Dụng</string>
+    <string name="button_namsao">Rate 5 Sao</string>
+    <string name="button_trangchu">Màn Hình Chính</string>
+    <string name="text_thua">Hết Lượt Chơi</string>
+    <string name="text_thang">Bạn Đã Hoàn Thành Gói Câu Hỏi!</string>
+    <string name="button_goicauhoikhac">Gói Câu Hỏi Khác</string>
+    <string name="button_goicauhoi">Gói Câu Hỏi</string>
+    <string name="button_hoitiepdi">Hỏi Tiếp Đi</string>
+    <string name="text_luatchoi">Khi bắt đầu chơi, bạn chọn Chơi Mới để mở gói câu hỏi mặc định với nhiều chủ đề. Bạn được quyền chọn một chủ đề riêng biệt bằng cách nhấn nút Gói Câu Hỏi. Mỗi lần chơi bạn có 3 lượt, nếu chơi hết lượt bạn sẽ thua. Trường hợp khi đã chơi hết lượt nhưng bạn back về để trả lời những câu hỏi trước,nếu trả lời đúng chúng tôi sẽ không tính. Chúc bạn may mắn! Ngoài ra nếu bạn cảm thấy ứng dụng bổ ích hãy vào phần đánh giá ứng dụng ở ô Rate 5 sao để ủng hộ chúng tôi, và góp ý để ứng dụng được hoàn thiện hơn nhé!</string>
+    <string name="button_thongtin">Luật Chơi</string>
+    <string name="button_toan">Toán Học</string>
+    <string name="button_tinhyeu">Tình Yêu</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7590251974628711/1696699676</string>
+
+
+
+</resources>

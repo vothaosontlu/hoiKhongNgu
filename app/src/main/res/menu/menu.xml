@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Mặc Định"
+        android:id="@+id/menuMacDinh"/>
+    <item android:title="Toán Học"
+        android:id="@+id/menuToanHoc"/>
+    <item android:title="Tình Yêu"
+        android:id="@+id/menuTinhYeu"/>/>
+</menu>

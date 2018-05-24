@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bradsds"
+    android:weightSum="5">
+
+
+    <Button
+        android:layout_marginTop="100dp"
+        android:textColor="#ff0004"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginStart="60dp"
+        android:id="@+id/buttonPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/custom_button1"
+        android:text="@string/button_choi" />
+
+
+    <Button
+        android:id="@+id/buttonToanHoc"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginEnd="110dp"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="0.8"
+        android:background="@drawable/custom_button"
+        android:text="@string/button_toan"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/buttonTinhYeu"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginEnd="110dp"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="0.8"
+        android:background="@drawable/custom_button"
+        android:text="@string/button_tinhyeu"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/buttonRaterate"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginEnd="110dp"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="0.8"
+        android:background="@drawable/custom_button"
+        android:text="@string/button_danhgia"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_weight="0.7"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id">
+
+
+
+
+    </com.google.android.gms.ads.AdView>
+
+
+
+
+</LinearLayout>
